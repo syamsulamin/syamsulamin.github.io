@@ -1,0 +1,69 @@
+// app global css in SCSS form
+section {
+    margin: 4px 0 4px 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.text-xs {
+  font-size: 10px;
+}
+
+.text-sm {
+    font-size: 12px;
+}
+
+.text-md {
+    font-size: 14px;
+}
+
+.text-xl {
+    font-size: 18px;
+}
+
+.text-xxl {
+  font-size: 20px;
+}
+
+.text-harris {
+    color: #FF4D00;
+}
+
+.rounded-xl {
+    border-radius: 10px;
+}
+
+.custom-caption {
+  text-align: center;
+  padding: 12px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.card-menu {
+  width: 100%;
+}
+
+.bg-img {
+  background-image: url("~assets/img_food.png");
+  background-repeat: no-repeat;
+}
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.border-right-primary {
+  border-right-color: $primary;
+  border-width: 10px;
+  border-right-style: solid;
+}
+
+.border-primary {
+  border: solid 1px $primary;
+}
