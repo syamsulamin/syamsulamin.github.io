@@ -15,6 +15,7 @@
     "nuxt": "^3.6.5"
   },
   "dependencies": {
+    "@nuxthq/ui": "^2.7.0",
     "gh-pages": "^6.0.0"
   }
 }
