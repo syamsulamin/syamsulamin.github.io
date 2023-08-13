@@ -4,10 +4,10 @@
 set -e
 
 # build
-npm run build
+yarn build
 
 # navigate into the build output directory
-cd dist
+cd .output/server
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME

@@ -1,22 +1,63 @@
-# Quasar App (vhp_self_order)
+# Nuxt 3 Minimal Starter
 
-A Quasar Framework app
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Install the dependencies
+## Setup
+
+Make sure to install the dependencies:
+
 ```bash
-yarn
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+## Development Server
+
+Start the development server on `http://localhost:3000`:
+
 ```bash
-quasar dev
+# npm
+npm run dev
+
+# pnpm
+pnpm run dev
+
+# yarn
+yarn dev
 ```
 
+## Production
 
-### Build the app for production
+Build the application for production:
+
 ```bash
-quasar build
+# npm
+npm run build
+
+# pnpm
+pnpm run build
+
+# yarn
+yarn build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm run preview
+
+# yarn
+yarn preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
