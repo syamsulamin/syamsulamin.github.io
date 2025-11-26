@@ -1,21 +1,33 @@
 {
-  "name": "nuxt-app",
+  "name": "nuxt-ui-template-portfolio",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "deploy": "gh-pages -d dist",
-    "postinstall": "nuxt prepare"
-  },
-  "devDependencies": {
-    "@nuxt/devtools": "latest",
-    "@types/node": "^18.17.3",
-    "nuxt": "^3.6.5"
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "typecheck": "nuxt typecheck"
   },
   "dependencies": {
-    "@nuxthq/ui": "^2.7.0",
-    "gh-pages": "^6.0.0"
-  }
+    "@iconify-json/lucide": "^1.2.75",
+    "@iconify-json/simple-icons": "^1.2.60",
+    "@nuxt/content": "^3.8.2",
+    "@nuxt/image": "^2.0.0",
+    "@nuxt/ui": "^4.2.1",
+    "@vueuse/nuxt": "^13.9.0",
+    "better-sqlite3": "^12.4.6",
+    "motion-v": "^1.7.3",
+    "nuxt": "^4.2.1",
+    "nuxt-og-image": "^5.1.12"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.10.0",
+    "eslint": "^9.39.1",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.1.5"
+  },
+  "packageManager": "pnpm@10.23.0"
 }
