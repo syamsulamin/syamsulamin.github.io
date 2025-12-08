@@ -63,7 +63,7 @@ defineProps<{
       </Motion>
     </template>
 
-    <template #description>
+    <!-- <template #description>
       <Motion
         :initial="{
           scale: 1.1,
@@ -82,7 +82,7 @@ defineProps<{
       >
         {{ page.description }}
       </Motion>
-    </template>
+    </template> -->
 
     <template #links>
       <Motion
@@ -156,7 +156,7 @@ defineProps<{
       </div>
     </template>
 
-    <UMarquee
+    <!-- <UMarquee
       pause-on-hover
       class="py-2 -mx-8 sm:-mx-12 lg:-mx-16 [--duration:40s]"
     >
@@ -186,6 +186,6 @@ defineProps<{
           v-bind="img"
         />
       </Motion>
-    </UMarquee>
+    </UMarquee> -->
   </UPageHero>
 </template>
