@@ -1,17 +1,17 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      light: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      dark: 'https://media.licdn.com/dms/image/v2/C5103AQGUjEJAw5H88A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572930243131?e=1766620800&v=beta&t=qBbo5O_6WS_yZa0MGNQQ_IvAYfR5_bd9PYlGNAY6RyI',
+      light: 'https://media.licdn.com/dms/image/v2/C5103AQGUjEJAw5H88A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572930243131?e=1766620800&v=beta&t=qBbo5O_6WS_yZa0MGNQQ_IvAYfR5_bd9PYlGNAY6RyI',
       alt: 'My profile picture'
     },
-    meetingLink: 'https://cal.com/',
-    email: 'ui-pro@nuxt.com',
+    meetingLink: 'https://api.whatsapp.com/send/?phone=6281219863459&text=Hi%2C+Mas+Syamsul+&type=phone_number&app_absent=0',
+    email: 'cybanjar@gmail.com',
     available: true
   },
   ui: {
     colors: {
-      primary: 'blue',
+      primary: 'green',
       neutral: 'neutral'
     },
     pageHero: {
@@ -26,20 +26,15 @@ export default defineAppConfig({
     credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://go.nuxt.com/discord',
+      'icon': 'i-lucide-linkedin',
+      'to': 'https://www.linkedin.com/in/syamsul-amin',
       'target': '_blank',
-      'aria-label': 'Nuxt on Discord'
-    }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://go.nuxt.com/x',
-      'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'Syamsul Amin on LinkedIn'
     }, {
       'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
+      'to': 'https://github.com/cybanjar',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Syamsul Amin on GitHub'
     }]
   }
 })
