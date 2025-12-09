@@ -79,64 +79,66 @@ experience:
         url: "https://sindata.com"
         color: "#4FC08D"
 testimonials:
-  - quote: "Syamsul's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "I worked with Syamsul before and he is undoubtedly a skilled individual. His frontend work has high impact in several projects and features with him implementing node.js, vue, html and many more. He has a strong mentality who is never shy of sharing ideas and opinions regarding the product. He also has a helpful nature who always teaches me and fellow engineers new things everyday. An amazing engineer and a great guy."
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: 'Arif Ramadhan'
+      description: 'Ex. Product Manager at Privy'
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Syamsul was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: 'https://media.licdn.com/dms/image/v2/C5603AQFKTWY4-AydWQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1649785024990?e=1766620800&v=beta&t=p2110VERqfzGfzda75V4oVXo1cBKzzKdRBs9yT01PA4'
+        srcset: 'https://media.licdn.com/dms/image/v2/C5603AQFKTWY4-AydWQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1649785024990?e=1766620800&v=beta&t=p2110VERqfzGfzda75V4oVXo1cBKzzKdRBs9yT01PA4 2x'
+  - quote: "Collaborating with Syamsul was one of the best decisions for our startup. He didn't just code — he provided thoughtful insights on usability, accessibility, and responsive behavior across devices. His strong communication and deep technical understanding made the engineering handoff seamless. Our launch went smoother than ever thanks to the quality and clarity of his front-end work."
     author:
-      name: 'Michael Rodriguez'
+      name: 'Joko Rodriguez'
       description: 'Co-founder of Wavelength Music'
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Syamsul stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: 'https://media.licdn.com/dms/image/v2/D5603AQFpEaMehuNa1w/profile-displayphoto-scale_100_100/B56Zl8Ezt_KEAg-/0/1758723261983?e=1766620800&v=beta&t=RLFmkYYvM30UeY8Ef_6WBeYKfZWOiT9AFOQMRrn2Bf8'
+        srcset: 'https://media.licdn.com/dms/image/v2/D5603AQFpEaMehuNa1w/profile-displayphoto-scale_100_100/B56Zl8Ezt_KEAg-/0/1758723261983?e=1766620800&v=beta&t=RLFmkYYvM30UeY8Ef_6WBeYKfZWOiT9AFOQMRrn2Bf8 2x'
+  - quote: "Syamsul excels at transforming complex data into clear, user-friendly interfaces. His work on our sustainability dashboard made intricate environmental metrics easy for users to digest. His blend of design sensibility, component-based architecture, and analytical thinking was exactly what our project needed. The user experience improvements were immediately noticeable and highly praised by our customers."
     author:
       name: 'Dr. Aisha Johnson'
       description: 'Chief Innovation Officer at GreenTech Solutions'
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
+        src: 'https://media.licdn.com/dms/image/v2/D5603AQGZfu0w5gScSw/profile-displayphoto-shrink_100_100/B56ZQlVlbUG8AU-/0/1735793204311?e=1766620800&v=beta&t=kXSq59BO0fCpw1DKdVZLCCSoJJIAY6ilGW6Sx5H5HLo'
+        srcset: 'https://media.licdn.com/dms/image/v2/D5603AQGZfu0w5gScSw/profile-displayphoto-shrink_100_100/B56ZQlVlbUG8AU-/0/1735793204311?e=1766620800&v=beta&t=kXSq59BO0fCpw1DKdVZLCCSoJJIAY6ilGW6Sx5H5HLo 2x'
 blog:
   title: "Latest Articles"
   description: "Some of my recent thoughts"
 faq:
   title: Frequently Asked Questions
-  description: Answers to common questions about my process and services.
+  description: Answers to common questions about my front-end development process and services.
   categories:
     - title: Services & Process
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            I focus on modern front-end development using technologies like Vue.js, Nuxt.js, React, and TypeScript.
+        - label: What does your development process look like?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
+            Discovery & Requirements, UI/UX Review (Optional), Architecture Planning, Development, Testing, Deployment, Handover
         - label: Do you work with startups?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
+            Absolutely! I  frequently collaborate with startups that need rapid iteration, clean UI, and scalable front-end architecture.
     - title: Pricing & Timelines
       questions:
         - label: How much does a project typically cost?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
+            Small front-end features / fixes: $500–$1,500, Landing pages / marketing sites: $1,500–$5,000, Full web applications or dashboards: $6,000–$25,000+, Front-end consultation: $70–$120/hour or $600/day.
         - label: What are your payment terms?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
+            40% deposit to book the project, 60% upon completion after final delivery.
         - label: How long does a typical project take?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
+            Small tasks or fixes → 1–5 days, Landing page / small feature → 2–4 weeks, Complete web application → 2–4 months. A detailed timeline is provided after the initial discovery call.
         - label: Do you offer retainers or ongoing support?
           content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
+            Yes. For ongoing maintenance, new features, performance improvements, or continuous updates, I offer monthly retainer plans tailored to your needs.
     - title: About Me
       questions:
-        - label: What do you enjoy most about your work?
+        - label: What do you enjoy most about front-end development?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            I love turning ideas and designs into real, interactive experiences.
+            Solving UI problems, optimizing performance, and creating clean component-based architectures is something I truly enjoy.
+            Seeing users interact smoothly with something I built is the most rewarding part of the job.
+        - label: What are your hobbies?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            Outside of coding, I enjoy exploring new tech tools, photography, and staying active. I also enjoy learning new frameworks, contributing to open-source projects.
