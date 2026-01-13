@@ -84,8 +84,8 @@ testimonials:
       name: 'Arif Ramadhan'
       description: 'Ex. Product Manager at Privy'
       avatar:
-        src: 'https://media.licdn.com/dms/image/v2/C5603AQFKTWY4-AydWQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1649785024990?e=1766620800&v=beta&t=p2110VERqfzGfzda75V4oVXo1cBKzzKdRBs9yT01PA4'
-        srcset: 'https://media.licdn.com/dms/image/v2/C5603AQFKTWY4-AydWQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1649785024990?e=1766620800&v=beta&t=p2110VERqfzGfzda75V4oVXo1cBKzzKdRBs9yT01PA4 2x'
+        src: 'https://media.licdn.com/dms/image/v2/C5603AQFKTWY4-AydWQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1649785024990?e=1769644800&v=beta&t=5JGxB3TR-9N0DfBXjZ33m4xcRB3bKBqfJ0pTR4y8U0M'
+        srcset: 'https://media.licdn.com/dms/image/v2/C5603AQFKTWY4-AydWQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1649785024990?e=1769644800&v=beta&t=5JGxB3TR-9N0DfBXjZ33m4xcRB3bKBqfJ0pTR4y8U0M 2x'
   - quote: "Collaborating with Syamsul was one of the best decisions for our startup. He didn't just code — he provided thoughtful insights on usability, accessibility, and responsive behavior across devices. His strong communication and deep technical understanding made the engineering handoff seamless. Our launch went smoother than ever thanks to the quality and clarity of his front-end work."
     author:
       name: 'Joko Rodriguez'

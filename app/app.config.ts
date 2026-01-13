@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://media.licdn.com/dms/image/v2/C5103AQGUjEJAw5H88A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572930243131?e=1766620800&v=beta&t=qBbo5O_6WS_yZa0MGNQQ_IvAYfR5_bd9PYlGNAY6RyI',
-      light: 'https://media.licdn.com/dms/image/v2/C5103AQGUjEJAw5H88A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1572930243131?e=1766620800&v=beta&t=qBbo5O_6WS_yZa0MGNQQ_IvAYfR5_bd9PYlGNAY6RyI',
+      dark: 'https://media.licdn.com/dms/image/v2/C5103AQGUjEJAw5H88A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1572930243051?e=1769644800&v=beta&t=TerJMQ-RMbbqWqXjYCjmLae3I7Kwoi9aBNIkASgUy7o',
+      light: 'https://media.licdn.com/dms/image/v2/C5103AQGUjEJAw5H88A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1572930243051?e=1769644800&v=beta&t=TerJMQ-RMbbqWqXjYCjmLae3I7Kwoi9aBNIkASgUy7o',
       alt: 'My profile picture'
     },
     meetingLink: 'https://api.whatsapp.com/send/?phone=6281219863459&text=Hi%2C+Mas+Syamsul+&type=phone_number&app_absent=0',

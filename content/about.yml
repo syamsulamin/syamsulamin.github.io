@@ -1,5 +1,7 @@
 title: About Me
-description: Learn more about my journey as a Frontend Developer, my development philosophy, and my passion for building fast, accessible, and intuitive digital experiences.
+description: | 
+  Learn more about my journey as a Frontend Developer, my development philosophy, and my passion for building fast, accessible, and intuitive digital experiences. 
+  
 content: |
   Hi, I'm **Syamsul Amin**, a Frontend Developer with a strong focus on crafting reliable, scalable, and user-centered digital interfaces. Over the past six years, I’ve worked across various industries building products that merge thoughtful design with clean, maintainable code.
 
@@ -25,7 +27,7 @@ content: |
 
   When I’m not working on front-end projects, I enjoy exploring local coffee shops, cycling, and experimenting with side projects that let me try new technologies. I also contribute to open-source when possible, especially around tooling and UI component patterns.
 
-  Thanks for visiting my page. Feel free to explore my [projects](/projects) or [reach out](/#contact) if you’d like to collaborate or discuss an upcoming idea!
+  Thanks for visiting my page. Feel free to explore my [projects](/projects) or [Latest CV](https://docs.google.com/document/d/180-oVkB8XaTL6-BLPwhYwV89IYHegjVmku863HRpQh4/edit?usp=sharing) if you’d like to collaborate or discuss an upcoming idea!
 images:
   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     alt: My workspace setup
