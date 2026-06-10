@@ -7,7 +7,9 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@vueuse/nuxt',
     'nuxt-og-image',
-    'motion-v/nuxt'
+    'motion-v/nuxt',
+    '@pinia/colada-nuxt',
+    '@pinia/nuxt'
   ],
 
   devtools: {
@@ -15,6 +17,12 @@ export default defineNuxtConfig({
   },
 
   css: ['~/assets/css/main.css'],
+
+  runtimeConfig: {
+    public: {
+      apiBizhare: 'http://sandbox.bizharedev.id:17001'
+    }
+  },
 
   compatibilityDate: '2024-11-01',
 
